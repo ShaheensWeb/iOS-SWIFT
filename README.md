@@ -1,11 +1,13 @@
 <--->
-Name: Shaheen Ghazazani
+
+Name: Shaheen Ghazazani 
 Blog: www.shaiwanghazazani.com
 Project: Voice Pitcher
+
 <--->
 
-A simple iOS app that is currently near naked in terms of graphical design. Currently waiting on design implementations
-from a digital media student friend of mine. 
+A simple iOS app that is currently near naked in terms of graphical design. 
+Currently waiting on some images from a digital media student friend of mine. 
 
 What does this app do: Records user voice and adds four sounds effects;
 sound effects 1-2(Slow effect + fast effect): Lower speed, and increase speed
